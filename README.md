@@ -2,7 +2,7 @@
 
 # Coca_Cola_Clone
 
-## Descrepción
+## Descripción
 Clon pagina web de Coca-Cola.
 
 
