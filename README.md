@@ -1,2 +1,2 @@
 # Coca_Cola_Clone
-Clone pagina web de Coca-Cola.
+Clon pagina web de Coca-Cola.
